@@ -1,13 +1,65 @@
 <DOCTYPE! html>
- <Style>
- 
- </Style>
+ <head>
+ <style>
+      *{
+     margin:0;
+   }
+   
+   .main{
+     height:100vh;
+     display:flex;
+     justify-content:center;
+     align-items:center;
+     position:relative;
+     animation: roll 15s linear 0.5s infinite;
+   }
+   .ellipse{
+     position:absolute;
+     height:12vw;width:4vw;
+     border-radius:50%;
+     border:0.6vw solid #5ed3f3;
+     transform:rotate(30deg)
+   }
+   .ellipse2{
+     position:absolute;
+     height:12vw;width:4vw;
+     border-radius:50%;
+     border:0.6vw solid #5ed3f3;
+     transform:rotate(-30deg)
+   }
+   .ellipse3{
+     position:absolute;
+     height:12vw;width:4vw;
+     border-radius:50%;
+     border:0.6vw solid #5ed3f3;
+     transform:rotate(90deg)
+   }
+   .ball{
+     position:absolute;
+     width:2.5vw;
+     height:2.5vw;
+     border-radius:50%;
+     background-color:#5ed3f3;
+   }
+   
+   @keyframes roll{
+     from{
+       transform:rotate(0deg)
+     }
+     to{
+       transform:rotate(360deg)
+     }
+   }
+ </style>
+ </head>
+  <body>
    <div class="main">
       <div class="ellipse"></div>
       <div class="ellipse2"></div>
       <div class="ellipse3"></div>
       <div class="ball"></div>
     </div>
+  </body>
 </html>
 
     
