@@ -1,4 +1,5 @@
-![ReactLogo](https://github.com/md-arif-alam/md-arif-alam/assets/129614679/be03e6a0-5ffd-4f38-a18f-f92046f3853c)
+
+![ReactLogo-min](https://github.com/md-arif-alam/md-arif-alam/assets/129614679/3bb55414-a757-433d-9f6e-c9e222cb60cc)
 
 - 👋 Hi, I’m 'Md Arif Alam'
 - 👀 I’m interested in 'web-development'
