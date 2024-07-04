@@ -7,8 +7,8 @@
 I'm a passionate Frontend Developer with a keen interest in exploring Fullstack MERN (MongoDB, Express.js, React.js, Node.js) development. My journey in the tech world began with a fascination for creating beautiful user interfaces, and it has since evolved into a quest to build robust, scalable applications that solve real-world problems.
 
 ## Skills
-- 💻 **Languages:** HTML, CSS, JavaScript, Java, SQL
-- 🌐 **Frontend:** React.js, React-Redux,  React-Router, NextJs, TailwindCss, Bootstrap, MaterialUI, ShadCn 
+- 💻 **Languages:** JavaScript, Java, SQL
+- 🌐 **Frontend:** HTML5, CSS3, React.js, React-Redux,  React-Router, NextJs, TailwindCss, Bootstrap, MaterialUI, ShadCn 
 - 🖥️ **Backend:** Node.js, Express.js
 - 📊 **Databases:** MongoDB
 - 🛠️ **Tools:** Git&Github, Webpack, npm, Postman, Netlify, Vercel,  
