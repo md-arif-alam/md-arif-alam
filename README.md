@@ -1,7 +1,7 @@
 
 ![GitBack](https://github.com/md-arif-alam/md-arif-alam/assets/129614679/616362f5-ef2f-46f2-b1fb-a61d34e07a24)
 
-# Hi there! 👋 I'm [Arif]
+# Hi there! 👋 I'm Arif
 
 ## About Me
 I'm a passionate Frontend Developer with a keen interest in exploring Fullstack MERN (MongoDB, Express.js, React.js, Node.js) development. My journey in the tech world began with a fascination for creating beautiful user interfaces, and it has since evolved into a quest to build robust, scalable applications that solve real-world problems.
@@ -20,7 +20,7 @@ Currently, I'm honing my skills in Fullstack development, diving deeper into bac
 - All of my project work are in my repo
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/md-arif-alam0316)
-- Gmail: arifalam0316@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/md-arif-alam0316)
+- [Gmail](mailto:arifalam0316@gmail.com)
 
 Feel free to reach out if you're interested in collaboration or just want to connect!
