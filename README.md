@@ -30,9 +30,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/expressjs/expressjs-original-wordmark.svg" title="EXpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="EXpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@ I'm a passionate Frontend Developer with a keen interest in exploring Fullstack 
 - 🌐 **Frontend:** HTML5, CSS3, React.js, React-Redux,  React-Router, NextJs, TailwindCss, Bootstrap, MaterialUI, ShadCn 
 - 🖥️ **Backend:** Node.js, Express.js
 - 📊 **Databases:** MongoDB
-- 🛠️ **Tools:** Git&Github, Webpack, npm, Postman, Netlify, Vercel,  
+- 🛠️ **Tools:** Git&Github, Webpack, npm, Postman, Netlify, Vercel, Firebase 
 
 ## What I'm Doing
 Currently, I'm a freelance Web Developer and also honing my skills in Fullstack development, diving deeper into backend technologies while keeping my frontend skills sharp with the latest frameworks and best practices.
